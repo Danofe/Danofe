@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Feili</h1>
-<h3 align="center">Student from Norway, IT and Information Systems in USN Bø.</h3>
+<h3 align="center">Bachelor graduate from Norway, IT and Information Systems.</h3>
+<h3 align="center">Pentest enthusiast and Programmer</h3>
 
 - 📫 How to reach me **Daniel-feili@Hotmail.no**
 
